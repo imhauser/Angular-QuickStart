@@ -1,2 +1,1 @@
-# Angular-QuickStart
-Angular QuickStart
+﻿This is a QuickStart Visual Studio 2017 Project for a standard ASP.NET Core 2.0 application with Angular 4
